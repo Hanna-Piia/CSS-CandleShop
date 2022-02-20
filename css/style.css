@@ -127,6 +127,10 @@ body {
     transition: all 1.5s ease-in-out;
 }
 
+.tutorials-image__text a:hover {
+    transform: scale(1.1);
+}
+
 .footer {
     background-color: rgb(134, 115, 78);
     color: rgb(252, 218, 155);
